@@ -5,3 +5,11 @@ It is a new line1.
 4-git status
 5-git commit -m"Message"
 6-git log
+7-git checkout chapter3.txt
+8-git remote add origin-https://github.com/Achchutan-S/Story.git
+9-git push -u origin master
+10-.gitignore 
+11-git rm --cached -r .
+12- git clone https://github.com/gabrielecirulli/2048.git
+
+
