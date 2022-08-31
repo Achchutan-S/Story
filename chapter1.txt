@@ -11,5 +11,7 @@ It is a new line1.
 10-.gitignore 
 11-git rm --cached -r .
 12- git clone https://github.com/gabrielecirulli/2048.git
-
+13- git branch alientplot
+14 - git branch
+15-git checkout alienplot
 
